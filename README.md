@@ -1,4 +1,4 @@
-Project of Applied Data Analysis
+**Project of Applied Data Analysis**
 
 **Date:** Sep-Dec 2022\
 **Course:** CS-401 - Applied Data Analysis (Prof. Robert West)\
