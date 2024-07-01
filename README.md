@@ -1,3 +1,9 @@
+Project of Applied Data Analysis
+
+**Date:** Sep-Dec 2022\
+**Course:** CS-401 - Applied Data Analysis (Prof. Robert West)\
+**Collaborators:** Flore Barde, Manon Bechaz, Zoe Jeandupeux, Killian Rigaux
+
 # Wikiworld: the world created by wiki users
 ## Datastory
 
